@@ -1,0 +1,10 @@
+﻿pandas
+numpy
+scikit-learn
+joblib
+streamlit
+plotly
+matplotlib
+tensorflow
+keras
+optree>=0.20.0
